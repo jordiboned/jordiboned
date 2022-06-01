@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Boned</h1>
 - 🌱 I’m currently learning **AWS and CI/CD**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
